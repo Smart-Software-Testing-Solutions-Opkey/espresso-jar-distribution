@@ -1,0 +1,43 @@
+/////////////////////////////////////////////////////////////////////////////////////
+//																				   //	
+//	pCloudy__Espresso__Configuration                                             //
+//          																	   //	
+/////////////////////////////////////////////////////////////////////////////////////
+
+{
+  "pCloudyConfiguration": {
+    "cloudSettings": {
+       "endpoint": "https://test-sub.pcloudy.com/",
+      "authentication": {
+        "username": "anjali.y@opkey.com",
+        "apiKey": "4zx7bkpb27hzs2dgh5jk8tf3"
+
+      }
+    },
+    "testExecution": {
+      "durationInMinutes": 10,
+      "deviceFullName": [
+			"SAMSUNG_S7Edge_Android_8.0.0_85b07"
+                        
+               		],
+      "testCycleName": "testMain_ESPRESSO_SESSION"
+    },
+    "applicationFiles": {
+      "apkFilePath": "C:\\Users\\AnjaliY\\Downloads\\New Espresso\\VectorApp_Espresso.apk",
+      "testApkPath": "C:\\Users\\AnjaliY\\Downloads\\New Espresso\\VectorApp_EspresoTestCases.apk",
+      "orchestratorApkPath": "C:\\Users\\AnjaliY\\Downloads\\New Espresso\\VectorApp_Espresso.apk",
+      "serviceApkPath": "C:\\Users\\AnjaliY\\Downloads\\New Espresso\\VectorApp_Espresso.apk"
+    },
+    "testSettings": {
+      "suites": [],
+      "testRunner": "android.support.test.runner.AndroidJUnitRunner",
+	  "testRunnerOptions": [
+	          "android.support.test.runner.AndroidJUnitRunner",
+	          "androidx.test.runner.AndroidJUnitRunner"
+	        ],
+      "clearPackageData": false,
+      "appPermissionGrant": true,
+      "appUpload": false
+    }
+  }
+}
