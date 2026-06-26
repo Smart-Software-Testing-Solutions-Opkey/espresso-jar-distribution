@@ -27,8 +27,8 @@ Run Espresso tests on pCloudy devices directly from your local terminal using th
 
 | File | Description | Direct Download |
 |------|-------------|-----------------|
-| `pcloudy_espresso.jar` | Espresso runner JAR | [Download](https://raw.githubusercontent.com/Smart-Software-Testing-Solutions-Opkey/pcloudy-release-artifacts/feat/update-new-release-artifacts/android/espresso/pcloudy_espresso.jar) |
-| `config.json` | Configuration template | [Download](https://raw.githubusercontent.com/Smart-Software-Testing-Solutions-Opkey/pcloudy-release-artifacts/feat/update-new-release-artifacts/android/espresso/config.json) |
+| `pcloudy_espresso.jar` | Espresso runner JAR | [Download](https://raw.githubusercontent.com/Smart-Software-Testing-Solutions-Opkey/pcloudy-release-artifacts/main/android/espresso/pcloudy_espresso.jar) |
+| `config.json` | Configuration template | [Download](https://raw.githubusercontent.com/Smart-Software-Testing-Solutions-Opkey/pcloudy-release-artifacts/main/android/espresso/config.json) |
 
 #### Setup & Usage
 
@@ -108,10 +108,10 @@ QConnect lets you connect a pCloudy-reserved device directly to your local machi
 
 | Platform | Binary | Direct Download |
 |----------|--------|-----------------|
-| macOS (Apple Silicon / ARM64) | `QConnect-darwin-arm64` | [Download](https://raw.githubusercontent.com/Smart-Software-Testing-Solutions-Opkey/pcloudy-release-artifacts/feat/update-new-release-artifacts/android/qconnect/QConnect-darwin-arm64) |
-| macOS (Intel / AMD64) | `QConnect-darwin-amd64` | [Download](https://raw.githubusercontent.com/Smart-Software-Testing-Solutions-Opkey/pcloudy-release-artifacts/feat/update-new-release-artifacts/android/qconnect/QConnect-darwin-amd64) |
-| Linux (AMD64) | `QConnect-linux-amd64` | [Download](https://raw.githubusercontent.com/Smart-Software-Testing-Solutions-Opkey/pcloudy-release-artifacts/feat/update-new-release-artifacts/android/qconnect/QConnect-linux-amd64) |
-| Windows (AMD64) | `QConnect-windows-amd64.exe` | [Download](https://raw.githubusercontent.com/Smart-Software-Testing-Solutions-Opkey/pcloudy-release-artifacts/feat/update-new-release-artifacts/android/qconnect/QConnect-windows-amd64.exe) |
+| macOS (Apple Silicon / ARM64) | `QConnect-darwin-arm64` | [Download](https://raw.githubusercontent.com/Smart-Software-Testing-Solutions-Opkey/pcloudy-release-artifacts/main/android/qconnect/QConnect-darwin-arm64) |
+| macOS (Intel / AMD64) | `QConnect-darwin-amd64` | [Download](https://raw.githubusercontent.com/Smart-Software-Testing-Solutions-Opkey/pcloudy-release-artifacts/main/android/qconnect/QConnect-darwin-amd64) |
+| Linux (AMD64) | `QConnect-linux-amd64` | [Download](https://raw.githubusercontent.com/Smart-Software-Testing-Solutions-Opkey/pcloudy-release-artifacts/main/android/qconnect/QConnect-linux-amd64) |
+| Windows (AMD64) | `QConnect-windows-amd64.exe` | [Download](https://raw.githubusercontent.com/Smart-Software-Testing-Solutions-Opkey/pcloudy-release-artifacts/main/android/qconnect/QConnect-windows-amd64.exe) |
 
 #### Prerequisites
 
